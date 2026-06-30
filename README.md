@@ -10,7 +10,7 @@ Uma sequência mais completa seria:
 4. Elabore o plano de testes (escopo, estratégia e critérios).
 5. Escreva os casos de teste.
 6. Crie os cenários em BDD [Gherkin](https://cucumber.io/docs/gherkin/reference).
-7. Execute os testes manuais.
+7. Execute os testes manuais. O Serverest possui um [front end](https://front.serverest.dev/login)
 8. Reporte e acompanhe os bugs encontrados.
 9. Faça os testes de API ([Postman](https://www.postman.com/), [Bruno](https://www.usebruno.com/), [Insomnia](https://insomnia.rest/) ou automatizados).
 10. Automatize os testes:
